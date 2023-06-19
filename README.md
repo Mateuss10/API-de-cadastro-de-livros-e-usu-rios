@@ -1,7 +1,5 @@
 ﻿# Integrante
 
 
--Curso Sistema de informaçao 5 simestre
-
- - Mateus reis da silva
- - David Gomes de Jesus
+ - Mateus reis da silva/ 5 sis
+ - David Gomes de Jesus/ 5 tads
